@@ -1,4 +1,9 @@
+#bleu {
+	color: #0adbec;
+	font-size: 36px;
+}
+
 .pretty {
-	background: lightpink;
+	background:#ffb6c1;
 	font-family: "Verdana" "DejaVu Sans" sans-serif;
 }
