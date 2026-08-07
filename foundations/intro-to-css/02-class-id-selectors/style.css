@@ -2,7 +2,9 @@
 	color: #0adbec;
 	font-size: 36px;
 }
-
+.odd {
+	font-size: 24px;
+}
 .pretty {
 	background:#ffb6c1;
 	font-family: "Verdana" "DejaVu Sans" sans-serif;
