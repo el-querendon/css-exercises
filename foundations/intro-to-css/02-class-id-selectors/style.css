@@ -1,7 +1,6 @@
 #absinthe {
 	background: #20ff02;
 	font-weight: bold;
-	font-size: 24px;
 }
 #bleu {
 	color: #0adbec;
@@ -12,5 +11,8 @@
 }
 .pretty {
 	background:#ffb6c1;
-	font-family: "Verdana" "DejaVu Sans" sans-serif;
+	font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+/* corrections:
+add commas to font-family in .pretty
+reuse .odd instead of repeating the font-size in #absinthe */
