@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.pretty {
+	background: lightpink;
+	font-family: "Verdana" "DejaVu Sans" sans-serif;
+}
